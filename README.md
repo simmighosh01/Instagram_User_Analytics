@@ -1,1 +1,2 @@
 # Instagram_User_Analytics
+The main purpose of this project is to find those data from Instagram through which we can find regular, real user accounts to give them incentives and to find those users who seems to be less active should be motivated through some lucrative ideas and if they are not active for a long period of time, then the account should be deactivated. In short our main focus will be company’s growth.
